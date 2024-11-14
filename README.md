@@ -1,5 +1,5 @@
 ## Hi! I am Prerna 👋
-#### I am Software professional with a decade of industry experience and 3 years in Frontend development. I am currently learning TailwindCSS and Typescript. Contact me on <a href="https://www.linkedin.com/in/prerna-lele/"> linkedIn </a> for any Frontend positions or tech for good projects. 
+#### I am Software professional with a decade of industry experience and 3 years in Frontend development. I am currently learning TailwindCSS and Typescript. I plan to learning node.js next. Contact me on <a href="https://www.linkedin.com/in/prerna-lele/"> linkedIn </a> for any Frontend positions or tech for good projects. 
 
 <a href="https://github.com/prernalele/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prernalele&layout=compact&langs_count=8&card_width=320" />
